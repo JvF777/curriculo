@@ -353,3 +353,11 @@ footer {
     background-color: #e0e0e0;
     margin: 40px 0;
 }
+
+.container p,
+.container .paragraf,
+.container .desc p,
+.container .h-educ .item p {
+    font-family: 'Roboto', sans-serif;
+}
+
